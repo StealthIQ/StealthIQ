@@ -1,7 +1,13 @@
-<h1 align="center">Hey 👋, I'm Adarsh</h1>
-<h3 align="center">I'm a Cyber security enthusiast</h3>
+<h1 align="center">Hey 👋, I'm </h1>
 
-- 🔭 I’m currently working on **myself**
+<div align="center">
+    <img src="./stealth-iq.gif"
+        alt="stealth-iq.gif" align="center" />
+</div>
+
+<h3 align="center">I'm a Cyber Security Enthusiast</h3>
+
+- 🔭 I’m currently working on **Myself**
 
 - 💬 Ask me about **Linux, Python, Scripting**
 
@@ -14,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="http://store-images.s-microsoft.com/image/apps.49661.13871330709152445.46e943f6-9e99-410e-9e95-f2a34eda8868.36b70c5d-209a-49d7-beee-5bbe395a6a09" alt="arch" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="stealthiq" /></p>
 
