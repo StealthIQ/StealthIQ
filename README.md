@@ -8,7 +8,7 @@
 <h3 align="center">I'm a Cyber Security Enthusiast</h3>
 
 - 🔭 Investing in Myself: My Current Endeavor
-- 💬 In love with "Cybersecurity, Linux, Python, Scripting"
+- 💬 In love with **Cybersecurity, Linux, Python, Scripting**
 - 📫 Let's Connect: Reach Out at **StealthIQ[at]protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
