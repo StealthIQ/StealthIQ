@@ -7,11 +7,9 @@
 
 <h3 align="center">I'm a Cyber Security Enthusiast</h3>
 
-- 🔭 I’m currently working on **Myself**
-
-- 💬 Ask me about **Linux, Python, Scripting**
-
-- 📫 How to reach me **StealthIQ@protonmail.com**
+- 🔭 Investing in Myself: My Current Endeavor
+- 💬 In love with "Cybersecurity, Linux, Python, Scripting"
+- 📫 Let's Connect: Reach Out at **StealthIQ@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
