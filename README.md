@@ -9,7 +9,7 @@
 
 - 🔭 Investing in Myself: My Current Endeavor
 - 💬 In love with "Cybersecurity, Linux, Python, Scripting"
-- 📫 Let's Connect: Reach Out at **StealthIQ@protonmail.com**
+- 📫 Let's Connect: Reach Out at **StealthIQ[at]protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
