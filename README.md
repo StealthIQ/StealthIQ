@@ -52,11 +52,8 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
   </a>
 </div>
 ---
-🚆
+## Stats
 ---
-
-## Graph 
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stealthiq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
