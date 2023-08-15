@@ -1,25 +1,57 @@
-<h1 align="center">Hey 👋, I'm </h1>
+# Hey there, I'm Adarsh! 👋
 
-<div align="center">
-    <img src="./stealth-iq.gif"
-        alt="stealth-iq.gif" align="center" />
+I'm a passionate Cyber Security Enthusiast based in India  🇮🇳. My love for cybersecurity, Linux, Python, and scripting fuels my journey. Investing in myself and continuous learning are at the core of my current endeavors.
+
+## Embracing Possibilities of Linux 
+
+When it comes to technology, I'm all about embracing the endless possibilities and collaboration that Linux offers. You'll often find me coding in the terminal, where empowerment and excitement converge. Join me in the penguin's realm as we embark on a journey into Linux's fascinating world! 🐧🔍🚀
+
+## My Path Through Tech
+
+- 📚 Every day is a chance to learn new skills. I'm fueled by boundless curiosity and a love for all things tech-related.
+- 😴 Sleep? Breaks? Nah! I've been known to code for 48 hours straight, all in the name of tech exploration.
+
+## Languages and Tools
+
+- Python
+- Bash
+- MySQL
+- Arch Linux
+
+## Let's Connect and Explore
+
+Are you as captivated by cybersecurity, programming, and technology as I am? Let's bypass the jargon and engage in real, straightforward tech conversations.
+- 💬 Whether it's cracking coding challenges or dissecting the latest gadgets, I'm all ears.
+- 🌱 Whether you're a seasoned coder or just starting out, your thoughts hold immense value.
+- 🌐 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adarsh-v-881346288/) or [Twitter](https://twitter.com/StealthIQQ).
+
+## Embracing the Open Source Journey
+
+Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecurity and programming has ignited a profound passion for open source projects. 💻🔥
+
+- 💡 The allure of collaboration, where diverse skills unite to create something extraordinary, truly captivates me.
+- 🚀 A dedicated open-source fan, I'm committed to contributing in any way possible – coding, testing, idea-sharing, you name it!
+- 🌟 Let's embark on a journey together, breaking barriers, and propelling tech innovation to new heights. Let's make a difference in the open-source realm, one collaboration at a time! 🤝🌍
+
+## Eager for Opportunities
+
+- 🌅 Internships and collaborations are like guiding lights illuminating my path. They're not just opportunities to grow, but to accumulate real-world know-how and expand my horizons.
+- 🔒 New tech areas like security intrigue me, and I'm always on the lookout for fresh avenues to explore.
+
+## Where the Passion Lies
+
+- 😍 Meeting a fellow hacker fills me with unparalleled excitement and happiness.
+
+## GitHub Streak
+
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="stealthiq" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=stealthiq&" alt="stealthiq" />
+  </div>
 </div>
 
-<h3 align="center">I'm a Cyber Security Enthusiast</h3>
+Looking forward to connecting with fellow cybersecurity enthusiasts and developers. Let's build a secure and exciting digital world together! 🛡️
 
-- 🔭 Investing in Myself: My Current Endeavor
-- 💬 In love with **Cybersecurity, Linux, Python, Scripting**
-- 📫 Let's Connect: Reach Out at **StealthIQ[at]protonmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stealthiqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stealthiqq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stealthiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stealthiq" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="http://store-images.s-microsoft.com/image/apps.49661.13871330709152445.46e943f6-9e99-410e-9e95-f2a34eda8868.36b70c5d-209a-49d7-beee-5bbe395a6a09" alt="arch" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="stealthiq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stealthiq&" alt="stealthiq" /></p>
