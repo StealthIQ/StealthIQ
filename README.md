@@ -42,14 +42,15 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
 
 - 😍 Meeting a fellow hacker fills me with unparalleled excitement and happiness.
 
+
 ## GitHub Streak
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 5px;">
-    <img width="278 src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="stealthiq" />
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin-right: 10px;">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="GitHub Stats" />
   </div>
   <div>
-    <img width="278 src="https://streak-stats.demolab.com?user=stealthiq&theme=prussian&hide_border=true&fire=31EBE6)](https://git.io/streak-stats" alt="stealthiq" />
+    <img width="45%" src="https://streak-stats.demolab.com?user=stealthiq&theme=prussian&hide_border=true&fire=31EBE6" alt="GitHub Streak" />
   </div>
 </div>
 
