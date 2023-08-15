@@ -45,12 +45,14 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
 
 ## GitHub Streak
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <div style="margin-right: 10px;">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img width="45%" src="https://streak-stats.demolab.com?user=stealthiq&theme=prussian&hide_border=true&fire=31EBE6" alt="GitHub Streak" />
+<div align="center">
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <div>
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="GitHub Stats" />
+    </div>
+    <div>
+      <img width="48%" src="https://streak-stats.demolab.com?user=stealthiq&theme=prussian&hide_border=true&fire=31EBE6" alt="GitHub Streak" />
+    </div>
   </div>
 </div>
 
