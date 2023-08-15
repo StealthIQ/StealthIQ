@@ -46,10 +46,10 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
 
 <div style="display: flex; justify-content: center;">
   <div style="margin-right: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="stealthiq" />
+    <img width="278 src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="stealthiq" />
   </div>
   <div>
-    <img src="https://streak-stats.demolab.com?user=stealthiq&theme=prussian&hide_border=true&fire=31EBE6)](https://git.io/streak-stats" alt="stealthiq" />
+    <img width="278 src="https://streak-stats.demolab.com?user=stealthiq&theme=prussian&hide_border=true&fire=31EBE6)](https://git.io/streak-stats" alt="stealthiq" />
   </div>
 </div>
 
