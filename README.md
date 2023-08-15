@@ -1,8 +1,9 @@
+
 # Hey there, I'm Adarsh! 👋
 
-I'm a passionate Cyber Security Enthusiast based in India  🇮🇳 My love for cybersecurity, Linux, Python, and scripting fuels my journey. Investing in myself and continuous learning are at the core of my current endeavors.
+I'm a passionate Cyber Security Enthusiast based in India 🇮🇳. My love for cybersecurity, Linux, Python, and scripting fuels my journey. Investing in myself and continuous learning are at the core of my current endeavors.
 
-## Embracing Possibilities of Linux 
+## Embracing Possibilities of Linux
 
 When it comes to technology, I'm all about embracing the endless possibilities and collaboration that Linux offers. You'll often find me coding in the terminal, where empowerment and excitement converge. Join me in the penguin's realm as we embark on a journey into Linux's fascinating world! 🐧🔍🚀
 
@@ -13,14 +14,12 @@ When it comes to technology, I'm all about embracing the endless possibilities a
 
 ## Languages and Tools
 
-- Python
-- Bash
-- MySQL
-- Arch Linux
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Let's Connect and Explore
 
 Are you as captivated by cybersecurity, programming, and technology as I am? Let's bypass the jargon and engage in real, straightforward tech conversations.
+
 - 💬 Whether it's cracking coding challenges or dissecting the latest gadgets, I'm all ears.
 - 🌱 Whether you're a seasoned coder or just starting out, your thoughts hold immense value.
 - 🌐 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adarsh-v-881346288/) or [Twitter](https://twitter.com/StealthIQQ).
@@ -42,19 +41,21 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
 
 - 😍 Meeting a fellow hacker fills me with unparalleled excitement and happiness.
 
-
 ## GitHub Streak
 
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div>
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="GitHub Stats" />
-    </div>
-    <div>
-      <img width="48%" src="https://streak-stats.demolab.com?user=stealthiq&theme=prussian&hide_border=true&fire=31EBE6" alt="GitHub Streak" />
-    </div>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=stealthiq&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
   </div>
-</div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=stealthiq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+## Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 Looking forward to connecting with fellow cybersecurity enthusiasts and developers. Let's build a secure and exciting digital world together! 🛡️
-
