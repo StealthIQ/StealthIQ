@@ -50,8 +50,8 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-  <br>
 </div>
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stealthiq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
