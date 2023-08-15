@@ -52,7 +52,6 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
   </a>
 </div>
 
-<br>
 ## Cool
 
 <div align="center">
