@@ -51,7 +51,7 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
   </a>
 </div>
 <div align="center">
-  <img src="https://www.freepnglogos.com/uploads/line-png/blue-lines-png-transparent-35.png?fit=300%2C50&ssl=1" alt="Line Break" width="100%">
+  <img src="https://www.freepnglogos.com/uploads/line-png/blue-lines-png-transparent-35.png?fit=10%2C50&ssl=1" alt="Line Break" width="100%">
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stealthiq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
