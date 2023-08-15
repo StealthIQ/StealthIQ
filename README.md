@@ -52,15 +52,12 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
   </a>
 </div>
 
-## Graph 
-- stats
+## Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stealthiq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
-
-## Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 Looking forward to connecting with fellow cybersecurity enthusiasts and developers. Let's build a secure and exciting digital world together! 🛡️
