@@ -1,6 +1,6 @@
 # Hey there, I'm Adarsh! 👋
 
-I'm a passionate Cyber Security Enthusiast based in India  🇮🇳. My love for cybersecurity, Linux, Python, and scripting fuels my journey. Investing in myself and continuous learning are at the core of my current endeavors.
+I'm a passionate Cyber Security Enthusiast based in India  🇮🇳 My love for cybersecurity, Linux, Python, and scripting fuels my journey. Investing in myself and continuous learning are at the core of my current endeavors.
 
 ## Embracing Possibilities of Linux 
 
@@ -45,11 +45,11 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
 ## GitHub Streak
 
 <div style="display: flex; justify-content: center;">
-  <div style="margin-right: 20px;">
+  <div style="margin-right: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&locale=en" alt="stealthiq" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=stealthiq&" alt="stealthiq" />
+    <img src="https://streak-stats.demolab.com?user=stealthiq&theme=prussian&hide_border=true&fire=31EBE6)](https://git.io/streak-stats" alt="stealthiq" />
   </div>
 </div>
 
