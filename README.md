@@ -1,44 +1,33 @@
 # Hey there, I'm Adarsh! 👋
 
-I'm a passionate Cyber Security Enthusiast based in India 🇮🇳. My love for cybersecurity, Linux, Python, and scripting fuels my journey. Investing in myself and continuous learning are at the core of my current endeavors.
+I'm a cybersecurity enthusiast from India 🇮🇳, super passionate about Linux, Python, and scripting. I sometimes invest in myself and learning new things.
 
-## Embracing Possibilities of Linux
+## Exploring Linux's Potential
 
-When it comes to technology, I'm all about embracing the endless possibilities and collaboration that Linux offers. You'll often find me coding in the terminal, where empowerment and excitement converge. Join me in the penguin's realm as we embark on a journey into Linux's fascinating world! 🐧🔍🚀
+I love how Linux opens up so many possibilities and promotes collaboration. I'm often coding in the terminal where things get exciting and empowering. Join me as we explore the world of Linux together! 🐧🔍🚀
 
-## My Path Through Tech
+## My Tech Journey
 
-- 📚 Every day is a chance to learn new skills. I'm fueled by boundless curiosity and a love for all things tech-related.
-- 😴 Sleep? Breaks? Nah! I've been known to code for 48 hours straight, all in the name of tech exploration.
+- 📚 Every day is a new opportunity to learn something fresh. My love for tech and endless curiosity drive me.
+- 😴 Sleep? Breaks? Nah! I've been known to code for 48 hours straight, just for the fun of it.
 
-## Languages and Tools
+## Languages I'm familiar w/t
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   
 
-## Let's Connect and Explore
+Are you into cybersecurity, coding, and tech as much as I am? then shoot me a DM ma G
 
-Are you as captivated by cybersecurity, programming, and technology as I am? Let's bypass the jargon and engage in real, straightforward tech conversations.
+- 💬 I'm up for chatting about anything tech-related, from coding challenges to the latest gadgets.
+- 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/adarsh-v-881346288/) or [Twitter](https://twitter.com/StealthIQQ).
 
-- 💬 Whether it's cracking coding challenges or dissecting the latest gadgets, I'm all ears.
-- 🌱 Whether you're a seasoned coder or just starting out, your thoughts hold immense value.
-- 🌐 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adarsh-v-881346288/) or [Twitter](https://twitter.com/StealthIQQ).
+## My Opinion on Open Source?
 
-## Embracing the Open Source Journey
+- 💡 Collaboration excites me ^ ^ when diverse skills come together, we can create something special.
+- 🚀 I'm all in on open source and ready to contribute however I can – coding, testing, sharing ideas, whatever!
 
-Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecurity and programming has ignited a profound passion for open source projects. 💻🔥
+## What I'm looking for?
 
-- 💡 The allure of collaboration, where diverse skills unite to create something extraordinary, truly captivates me.
-- 🚀 A dedicated open-source fan, I'm committed to contributing in any way possible – coding, testing, idea-sharing, you name it!
-- 🌟 Let's embark on a journey together, breaking barriers, and propelling tech innovation to new heights. Let's make a difference in the open-source realm, one collaboration at a time! 🤝🌍
-
-## Eager for Opportunities
-
-- 🌅 Internships and collaborations are like guiding lights illuminating my path. They're not just opportunities to grow, but to accumulate real-world know-how and expand my horizons.
-- 🔒 New tech areas like security intrigue me, and I'm always on the lookout for fresh avenues to explore.
-
-## Where the Passion Lies
-
-- 😍 Meeting a fellow hacker fills me with unparalleled excitement and happiness.
+-  Internships, OSS Collaborations, Hackathons, Freelance Opportunities, Research Projects, Volunteering Opportunities
 
 ## GitHub Streak
 
@@ -60,5 +49,3 @@ Hey there, fellow tech enthusiasts! 👋 My journey in the realms of cybersecuri
 ## Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-Looking forward to connecting with fellow cybersecurity enthusiasts and developers. Let's build a secure and exciting digital world together! 🛡️
