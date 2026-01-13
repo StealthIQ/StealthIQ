@@ -1,39 +1,28 @@
-# Adarsh
 
-Cybersecurity and Linux practitioner who enjoys working close to the metal. Most of my time goes into scripting, breaking systems in controlled ways, and understanding how things behave when nobody’s watching.
+## Adarsh
 
-I like projects that challenge assumptions, sharpen my skills, or force me to learn something uncomfortable. Open source is where I’m most at home, and I contribute whenever I can.
+I stick to Linux because I like knowing exactly what's happening under the hood. I like exploring unclear problems where learning comes from testing, breaking things, and figuring them out step by step.
 
-## Skills
+I learn by doing. Most of my time goes into scripting and automating the boring stuff so I can focus on the interesting problems.
 
-Full-stack development • Secure coding practices • Linux systems engineering • Threat analysis • Pen-testing basics • API design and integration • Database design • Automation and scripting • CI/CD workflows • DevOps • UI/UX • R&D • Technical leadership
+The same mindset bleeds into my product work. I love the messy, early stages of a project where there's no map and the decisions you make actually define the outcome. 
 
-## Open to
+Uncertainty doesn't bother me; I feel that's where the real work happens.  
 
-Internships, OSS collaborations, hackathons, freelance contracts, research-oriented security work.
+Open source has taught me a lot, reading code, understanding different systems, and contributing where I can. I like building things that are practical, shared, and improved over time.
 
-## Connect
+### What I'm into
 
-[LinkedIn](https://www.linkedin.com/in/adarsh-v-881346288/)
-[Twitter](https://twitter.com/StealthIQQ)
+- Early-stage product design
+- Linux systems & internals  
+- Scripting & automation  
+- Solving problems that don't have answers yet  
 
-## GitHub Streak
+### Open to
 
-<div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=stealthiq&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=stealthiq&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://hips.hearstapps.com/hmg-prod/images/line-break-1644443423.png" alt="Line Break" width="100%">
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stealthiq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
+- Open source collaboration  
+- Freelance or contract work  
+- Hackathons & intense sprints  
+- Anything real, early, or difficult  
 
-## Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+If it's real, early, or worth figuring out properly, I'm interested.
