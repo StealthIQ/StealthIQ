@@ -1,28 +1,24 @@
 
 ## Adarsh
 
-I stick to Linux because I like knowing exactly what's happening under the hood. I like exploring unclear problems where learning comes from testing, breaking things, and figuring them out step by step.
+Full stack dev - Product focused, I love to play around with linux, really into Automation, Devops etc...
 
-I learn by doing. Most of my time goes into scripting and automating the boring stuff so I can focus on the interesting problems.
+I like to learn by doing. Most of the time i focus on building some cool things and stick to them untill they grow teeth
 
-The same mindset bleeds into my product work. I love the messy, early stages of a project where there's no map and the decisions you make actually define the outcome. 
+My mindset is the same when building something. I love the messy, early stages of a project where we have no idea about things and later slowly figure things out as we move on. 
 
-Uncertainty doesn't bother me; I feel that's where the real work happens.  
-
-Open source has taught me a lot, reading code, understanding different systems, and contributing where I can. I like building things that are practical, shared, and improved over time.
+OSS has taught me a lot tbh, reading , understanding different systems, code etc.., and contributing where I can. 
 
 ### What I'm into
 
 - Early-stage product design
-- Linux systems & internals  
-- Scripting & automation  
-- Solving problems that don't have answers yet  
+- Anything Linux 
+- Automation    
 
 ### Open to
 
-- Open source collaboration  
-- Freelance or contract work  
-- Hackathons & intense sprints  
-- Anything real, early, or difficult  
+- OSS collaboration  
+- Freelance / contract work  
+- Hackathons   
 
-If it's real, early, or worth figuring out properly, I'm interested.
+If it's real, early, or worth figuring out properly, Im interested.
