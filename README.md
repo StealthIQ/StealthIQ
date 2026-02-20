@@ -11,7 +11,9 @@ OSS has taught me a lot tbh, reading , understanding different systems, code etc
 ### What I'm into 
 - Early-stage product design 
 - Anything Linux  
-- Automation ### Open to 
+- Automation
+
+### Open to 
 - OSS collaboration   
 - Freelance / contract works   
 - Hackathons    
